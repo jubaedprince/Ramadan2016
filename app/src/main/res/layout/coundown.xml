@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/layout_bg"
+    android:padding="6dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight=".2"
+        android:layout_height="wrap_content"
+        android:paddingRight="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_marginTop="6dp"
+            android:textColor="@color/secondary_text"
+            android:text="Months"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:textAlignment="center"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="11"
+            android:textColor="@color/primary_text"
+            android:id="@+id/month"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:textAlignment="center"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight=".2"
+        android:layout_height="wrap_content"
+        android:paddingRight="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_marginTop="6dp"
+            android:textColor="@color/secondary_text"
+            android:text="Days"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:textAlignment="center"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="21"
+            android:textColor="@color/primary_text"
+            android:id="@+id/day"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:textAlignment="center"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight=".2"
+        android:layout_height="wrap_content"
+        android:paddingRight="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_marginTop="6dp"
+            android:textColor="@color/secondary_text"
+            android:text="Hours"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:textAlignment="center"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="8"
+            android:textColor="@color/primary_text"
+            android:id="@+id/hour"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:textAlignment="center"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight=".2"
+        android:layout_height="wrap_content"
+        android:paddingRight="8sp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_marginTop="6dp"
+            android:textColor="@color/secondary_text"
+            android:text="Minutes"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:textAlignment="center"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="43"
+            android:textColor="@color/primary_text"
+            android:id="@+id/minute"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:textAlignment="center"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight=".2"
+        android:layout_height="wrap_content"
+        android:paddingRight="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_marginTop="6dp"
+            android:textColor="@color/secondary_text"
+            android:text="Secs"
+            android:textSize="15sp"
+            android:layout_width="match_parent"
+            android:textAlignment="center"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:text="8"
+            android:textColor="@color/primary_text"
+            android:id="@+id/second"
+            android:textSize="30sp"
+            android:layout_width="match_parent"
+            android:textAlignment="center"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>

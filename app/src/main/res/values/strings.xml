@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ramadan</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1288462231761369/4267355538</string>
+    <string name="time_message">Considering 6 June 2016 as first Ramadan</string>
+    <string-array name="quote_array">
+        <item>Beware of Pride because you will be returning to the earth and your body will be eaten up by the worms.</item>
+        <item>Islam was not a torch, as has been claimed, but an extinguisher. Conceived in a barbarous brain for the use of a barbarous people, it was - and it remains - incapable of adapting itself to civilization. Wherever it has dominated, it has broken the impulse towards progress and checked the evolution of society.</item>
+        <item>The Koran calls for belief and consequent obedience. It is, surely, calculated to inspire fear, indeed abject terror, rather than love.</item>
+        <item>O you who believe! Fasting is prescribed to you as it was prescribed to those before you. so that you may learn self restraint.</item>
+        <item>Be kind to one another, and know that Allah will be kinder.</item>
+        <item>Knowledge is not what is memorised, Knowledge is what benefits.</item>
+        <item>Allah did not say that the road would be easy, rather he said that he would be with those who are patient.</item>
+        <item>Part time Muslims can’t defeat full time shaitan.</item>
+        <item>Erase the past with repentance and build the future with sincerity and good deeds.</item>
+        <item>Don’t allow your trials to tear you down and make you bitter. With patience and faith, you’re supposed to pull through and be a better person.</item>
+        <item>INDEED, ALLAH IS WITH THOSE WHO ARE PATIENT.</item>
+        <item>Every soul will taste death. And We test you with evil and with good as trial; and to Us you will be returned.</item>
+        <item>The hearts pray for what they desire, but Allah responds with what is better for them.</item>
+        <item>You may be facing trials, depression, doubts, worries and fears; but know that He will take care of everything if you only turn to Him.</item>
+
+
+    </string-array>
+
+</resources>
